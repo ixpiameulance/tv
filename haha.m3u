@@ -1,3 +1,9 @@
 #EXTM3U
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16692
-#EXTINF:0 type="video" group-title="Portuguese",Quando Nos Conhecemos (2018)
+#EXTINF:-1 type="video" tvg-id="" tvg-name="Vanquish (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1a64e3a84ccd07a498baf05ddaac4908.jpg" group-title="Portuguese",Vanquish (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003580/287994003580/29709.mkv
+#EXTINF:-1 type="video" tvg-id="" tvg-name="Ronda Noturna (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f4d5253b34ab5d321c804867dad7a8a1.jpg" group-title="Portuguese",Ronda Noturna (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003580/287994003580/29706.mkv
+#EXTINF:-1 type="video" tvg-id="" tvg-name="O Mistério da Casa Assombrada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8EcGvxeF6F5nGapm279xDTTo6Y.jpg" group-title="Portuguese",O Mistério da Casa Assombrada (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003580/287994003580/31908.mkv
+#EXTINF:-1 type="video" tvg-id="" tvg-name="O Perfeito Sr. Cha (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c31eb4d45977e6bbe90f16afa7b5985f.jpg" group-title="Portuguese",O Perfeito Sr. Cha (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003580/287994003580/31909.mkv
