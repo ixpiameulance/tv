@@ -1,9 +1,21 @@
-#EXTM3U
-#EXTINF:3600,MyCamTV XXX Vod #5
-https://vod.mycamtv.net/5.m3u8
-#EXTINF:3600,MyCamTV XXX Vod #6
-https://vod.mycamtv.net/6.m3u8
-#EXTINF:3600,MyCamTV XXX Vod #7
-https://vod.mycamtv.net/7.m3u8
-#EXTINF:3600,MyCamTV XXX Vod #8
-https://vod.mycamtv.net/8.m3u8
+
+#EXTINF:0,Website : cutt.ly/superiptv
+http://nvid101.cdnii.com/2018/1/20181392-720p.mp4
+#EXTINF:-1,Website : cutt.ly/superiptv
+https://ovhv47.twincdn.com/videos/30/30334/30334_720p.mp4
+#EXTINF:0,Website : cutt.ly/superiptv
+http://nvid101.cdnii.com/2018/1/20181393-720p.mp4
+#EXTINF:-1,Website : cutt.ly/superiptv
+https://ovhv47.twincdn.com/videos/30/30335/30335_720p.mp4
+#EXTINF:0,Website : cutt.ly/superiptv
+http://nvid101.cdnii.com/2018/1/20181394-720p.mp4
+#EXTINF:-1,Website : cutt.ly/superiptv
+https://ovhv47.twincdn.com/videos/30/30336/30336_720p.mp4
+#EXTINF:0,Website : cutt.ly/superiptv
+http://nvid101.cdnii.com/2018/1/20181441-720p.mp4
+#EXTINF:-1,Website : cutt.ly/superiptv
+https://ovhv47.twincdn.com/videos/30/30337/30337_720p.mp4
+#EXTINF:0,Website : cutt.ly/superiptv
+http://nvid101.cdnii.com/2018/1/20181396-720p.mp4
+#EXTINF:-1,Website : cutt.ly/superiptv
+https://ovhv47.twincdn.com/videos/30/30340/30340_720p.mp4
