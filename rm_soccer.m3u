@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:0,QUADRA 1 CAM1 RM SOCCER
+#EXTVLCOPT:network-caching=1000
+rtsp://admin:camera2023@186.216.13.80:5541
+
+#EXTINF:0,QUADRA 1 CAM2 RM SOCCER
+#EXTVLCOPT:network-caching=1000
+rtsp://admin:camera2023@186.216.13.80:5544
+
+#EXTINF:0,QUADRA 2 CAM1 RM SOCCER
+#EXTVLCOPT:network-caching=1000
+rtsp://admin:camera2023@186.216.13.80:5542
+
+#EXTINF:0,QUADRA 2 CAM2 RM SOCCER
+#EXTVLCOPT:network-caching=1000
+rtsp://admin:camera2023@186.216.13.80:5543
